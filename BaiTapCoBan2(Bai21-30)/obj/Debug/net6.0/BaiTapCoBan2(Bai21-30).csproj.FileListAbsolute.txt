@@ -1,0 +1,15 @@
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\bin\Debug\net6.0\BaiTapCoBan2(Bai21-30).exe
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\bin\Debug\net6.0\BaiTapCoBan2(Bai21-30).deps.json
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\bin\Debug\net6.0\BaiTapCoBan2(Bai21-30).runtimeconfig.json
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\bin\Debug\net6.0\BaiTapCoBan2(Bai21-30).dll
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\bin\Debug\net6.0\BaiTapCoBan2(Bai21-30).pdb
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\BaiTapCoBan2(Bai21-30).csproj.AssemblyReference.cache
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\BaiTapCoBan2(Bai21-30).GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\BaiTapCoBan2(Bai21-30).AssemblyInfoInputs.cache
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\BaiTapCoBan2(Bai21-30).AssemblyInfo.cs
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\BaiTapCoBan2(Bai21-30).csproj.CoreCompileInputs.cache
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\BaiTapCoBan2(Bai21-30).dll
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\refint\BaiTapCoBan2(Bai21-30).dll
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\BaiTapCoBan2(Bai21-30).pdb
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\BaiTapCoBan2(Bai21-30).genruntimeconfig.cache
+D:\BaiTapCoBan2(Bai21-30)\BaiTapCoBan2(Bai21-30)\obj\Debug\net6.0\ref\BaiTapCoBan2(Bai21-30).dll
