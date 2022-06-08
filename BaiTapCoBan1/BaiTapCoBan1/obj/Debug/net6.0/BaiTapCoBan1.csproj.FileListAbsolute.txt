@@ -1,0 +1,15 @@
+D:\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net6.0\BaiTapCoBan1.exe
+D:\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net6.0\BaiTapCoBan1.deps.json
+D:\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net6.0\BaiTapCoBan1.runtimeconfig.json
+D:\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net6.0\BaiTapCoBan1.dll
+D:\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net6.0\BaiTapCoBan1.pdb
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\BaiTapCoBan1.csproj.AssemblyReference.cache
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\BaiTapCoBan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\BaiTapCoBan1.AssemblyInfoInputs.cache
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\BaiTapCoBan1.AssemblyInfo.cs
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\BaiTapCoBan1.csproj.CoreCompileInputs.cache
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\BaiTapCoBan1.dll
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\refint\BaiTapCoBan1.dll
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\BaiTapCoBan1.pdb
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\BaiTapCoBan1.genruntimeconfig.cache
+D:\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net6.0\ref\BaiTapCoBan1.dll
